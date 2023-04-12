@@ -1,4 +1,4 @@
-# Mr Johnny - e-commerce website
+# Mr. Johnny - e-commerce website
 
 
 ### Built With
